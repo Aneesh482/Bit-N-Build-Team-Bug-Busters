@@ -1,14 +1,20 @@
 This project is the submission for the buildnBuild Hackathon by Team Bug Busters.
 ---
+---
 Team Members
 1.Swastik Routray
+---
 2.Aneesh DasGupta
+---
 3.Kundan Kumar
+---
 4.Soumya Ranjan Pradhan
 ---
 Problem Statement
 ---
+---
 #The Future of Retail Sprint
+---
 Problem Statement:
 The brick-and-mortar retail experience is struggling to compete with the convenience of
 e-commerce. How might we use emerging technologies like Augmented Reality (AR), Computer
